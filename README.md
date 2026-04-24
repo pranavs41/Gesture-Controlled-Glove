@@ -26,7 +26,7 @@ A DIY Bluetooth gesture glove for PC gaming. Left-hand glove sends keystrokes to
 - Libraries: ESP32-BLE-Keyboard (T-vK), Adafruit BNO08x
 
 ## Wiring
-See [HARDWARE.md](HARDWARE.md) for full pin map and schematics.
+See [hardware.md](hardware.md) for full pin map and schematics.
 
 ## Gestures
-See [GESTURES.md](GESTURES.md) for the current gesture-to-key mapping.
+See [gestures.md](gestures.md) for the current gesture-to-key mapping.
