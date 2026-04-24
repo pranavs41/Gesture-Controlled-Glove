@@ -1,6 +1,11 @@
 # Build Log
 
-## [04/24/2026] - v1 milestone: pinch + BLE + haptic working
+## [04/24/2026] - ESP32 core v3 breaks BleKeyboard
+- Soldered Hall effect sensor wires
+- Tested all sensors after the heat from soldering
+- Mounted sensors onto the glove with
+
+## [04/23/2026] - v1 milestone: pinch + BLE + haptic working
 - Got all 4 pinch pads typing letters into Notepad over BLE
 - Added 40ms haptic confirmation on pinch
 - Known issues: some pinches flakier than others, needs more robust contact
@@ -8,6 +13,7 @@
 
 ## 04/22/2026] - Hall sensor range issue
 - Single 4x2mm N42 doesn't trigger sensor through glove fabric
+- All 4 pinch pads properly detected
 - 2-stack of same magnets: triggers reliably
 - Decision: bought new 10x3 mm magnets
 
