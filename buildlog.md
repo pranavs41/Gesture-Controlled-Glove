@@ -4,6 +4,7 @@
 - Soldered Hall effect sensor wires
 - Tested all sensors after the heat from soldering
 - Mounted sensors onto the glove with
+- Super glued the magnets inside of glove
 
 ## [04/23/2026] - v1 milestone: pinch + BLE + haptic working
 - Got all 4 pinch pads typing letters into Notepad over BLE
