@@ -1,6 +1,6 @@
 # Build Log
 
-## [04/24/2026] - ESP32 core v3 breaks BleKeyboard
+## [04/24/2026] - Soldering + magnet mounting
 - Soldered Hall effect sensor wires
 - Tested all sensors after the heat from soldering
 - Mounted sensors onto the glove with
@@ -24,7 +24,7 @@
 - Tried blackketter fork: still failed  
 - Fix: downgraded ESP32 core to v2.0.17, compiles clean
 
-## [04/18/2026] - ESP32 core v3 breaks BleKeyboard
+## [04/18/2026] - Planning
 - Parts all ordered
 - Parts list is in hardware.md
 
