@@ -1,4 +1,7 @@
 # Build Log
+## [04/26/2026] - Full System test + perfboard
+- Tested full system to success
+- Arranging componens onto berfboard for final build
 
 ## [04/24/2026] - Soldering + magnet mounting
 - Soldered Hall effect sensor wires
