@@ -29,4 +29,4 @@ A DIY Bluetooth gesture glove for PC gaming. Left-hand glove sends keystrokes to
 See [hardware.md](hardware.md) for full pin map.
 
 ## Gestures
-See [gestures.md](gestures.md) for the current gesture-to-key mapping. (Not mapped yet so nothing for now)
+See [gestures.md](gestures.md) for the current gesture-to-key mapping.
