@@ -1,4 +1,14 @@
 # Build Log
+
+## [05/5/2026] - Soldering + magnet mounting
+- Moved everything from breadboard to perfboard
+- Integrated charging and power circuit with boost and battery
+- Used velcro to secure perfboard to glove
+- Finished the IMU code
+- Calibrated IMU to work at current mounting angle
+- Sewed on a pocket for battery to be inserted
+- Tested full system with minecraft
+
 ## [04/26/2026] - Full System test + perfboard
 - Tested full system to success
 - Arranging componens onto berfboard for final build
