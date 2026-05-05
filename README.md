@@ -7,8 +7,8 @@ A DIY Bluetooth gesture glove for PC gaming. Left-hand glove sends keystrokes to
 - [x] Pinch detection (thumb to each fingertip)
 - [x] BLE keyboard output to PC
 - [x] Haptic feedback via vibration motor
-- [x] IMU (BNO085) wired, not implemented yet but tested
-- [X] Hall sensors for fist detection (awaiting stronger magnets)
+- [x] IMU (BNO085) for tilt detection
+- [X] Hall sensors for fist detection 
 - [x] Wireless battery power (LiPo + TP4057 + MT3608)
 - [x] Final perfboard build
 
