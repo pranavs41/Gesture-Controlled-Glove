@@ -1,6 +1,6 @@
 # Build Log
 
-## [05/5/2026] - Soldering + magnet mounting
+## [05/5/2026] - Finishing touches
 - Moved everything from breadboard to perfboard
 - Integrated charging and power circuit with boost and battery
 - Used velcro to secure perfboard to glove
