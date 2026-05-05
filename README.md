@@ -3,14 +3,14 @@ Gesture Controlled glove made for gaming utilizing magnets, IMU, and copper pad 
 
 A DIY Bluetooth gesture glove for PC gaming. Left-hand glove sends keystrokes to a paired PC based on finger pinches, fist curls, and wrist tilts.
 
-## Status (v1 in progress)
+## Status
 - [x] Pinch detection (thumb to each fingertip)
 - [x] BLE keyboard output to PC
 - [x] Haptic feedback via vibration motor
 - [x] IMU (BNO085) wired, not implemented yet but tested
 - [X] Hall sensors for fist detection (awaiting stronger magnets)
 - [x] Wireless battery power (LiPo + TP4057 + MT3608)
-- [ ] Final perfboard build
+- [x] Final perfboard build
 
 ## Hardware
 - ESP32 DevKit V1
